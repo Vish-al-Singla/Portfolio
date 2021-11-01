@@ -1,5 +1,5 @@
 body {
-    background-color: #FFBBCC ;
+    background-color: #fff0f3 ;
 }
 
 hr {
@@ -10,6 +10,6 @@ hr {
     border-width: 10px;
   }
 
-  h1, h3 {
-      color: #6a040f;
+  h1,h2, h3 {
+      color: #c9184a;
   }
